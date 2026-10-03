@@ -1,6 +1,6 @@
 Task 0 - Responsive Typography
 I started with simple headings and a paragraph. Then I used Media Queries to change their size for mobile, tablet, and desktop screens.
-<img width="1000" height="128" alt="image" src="https://github.com/user-attachments/assets/3bf9569b-481e-4c7b-80e1-944a33371587" />
+<img width="950" height="128" alt="image" src="https://github.com/user-attachments/assets/3bf9569b-481e-4c7b-80e1-944a33371587" />
 <img width="650" height="73" alt="image" src="https://github.com/user-attachments/assets/a30ba262-727c-49f5-8cd0-cffb44ce9014" />
 
 Task 1 - Responsive Layout
@@ -19,7 +19,7 @@ I made a simple navigation bar with links. On smaller screens, the links move in
 
 Task 4 - Responsive Portfolio
 For the last task, I combined everything into a simple portfolio page with projects, About Me, contact information, a navbar, and a footer. I also made it responsive for different screen sizes.
-<img width="1000" height="402" alt="image" src="https://github.com/user-attachments/assets/ca4225c5-bfc0-4112-9fdf-24efb549a50b" />
+<img width="1200" height="560" alt="image" src="https://github.com/user-attachments/assets/64a4d9d5-48b2-4368-9814-40ba821081fd" />
 
 Conclusion
 This assignment helped me understand how responsive websites work. I practiced Media Queries, Flexbox, Bootstrap Grid, and responsive navigation.
