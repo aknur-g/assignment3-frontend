@@ -23,7 +23,7 @@ I made a simple navigation bar with links. On smaller screens, the links move in
 
 Task 4 - Responsive Portfolio
 For the last task, I combined everything into a simple portfolio page with projects, About Me, contact information, a navbar, and a footer. I also made it responsive for different screen sizes.
-<img width="1200" height="560" alt="image" src="https://github.com/user-attachments/assets/64a4d9d5-48b2-4368-9814-40ba821081fd" />
+<img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/64a4d9d5-48b2-4368-9814-40ba821081fd" />
 
 Conclusion
 This assignment helped me understand how responsive websites work. I practiced Media Queries, Flexbox, Bootstrap Grid, and responsive navigation.
