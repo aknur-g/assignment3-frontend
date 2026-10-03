@@ -1,3 +1,6 @@
+Group: IT - 2501
+Name: Aknur Galymzhankyzy
+
 Task 0 - Responsive Typography
 I started with simple headings and a paragraph. Then I used Media Queries to change their size for mobile, tablet, and desktop screens.
 <img width="950" height="128" alt="image" src="https://github.com/user-attachments/assets/3bf9569b-481e-4c7b-80e1-944a33371587" />
