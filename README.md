@@ -1,5 +1,6 @@
 Group: IT - 2501
 Name: Aknur Galymzhankyzy
+-
 
 Task 0 - Responsive Typography
 I started with simple headings and a paragraph. Then I used Media Queries to change their size for mobile, tablet, and desktop screens.
